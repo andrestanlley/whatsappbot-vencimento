@@ -7,9 +7,9 @@
 ### Após os avisos, o software fechara o browser e desligará a maquina
 Eu configurei a execução dele usando TriggerCMD e criei uma rotina na alexa para executar todos os dias as 07:00h.
 
-# [EN] Whatsapp bot to alert your costumers about the payment date.
+# [EN] Whatsapp bot to alert your customers about the payment date.
 * This bot was created to support who work with clients and has different payment dates.
-* The script allows the registration of new costumers, with the name, phone number and payment date.
+* The script allows the registration of new customers, with the name, phone number and payment date.
 * When running the start, the bot will check the customers that will win the next day and send a message on whatsapp to each one.
 * After alert the customers, the bot send the report to dealer with the name of informed, including also those that have been errors.
 
