@@ -6,7 +6,7 @@ import os
 abrir()
 arq = 'revenda1.txt'
 notificar(arq, revenda1)
-avisar('revenda1')              # Caso seja apenas um revendedos, você pode deixar comentado até a linha 13. 
+avisar('revenda1')              # Caso seja apenas um revendedor, você pode deixar comentado até a linha 13. 
 arq = 'revenda2.txt'
 notificar(arq, revenda2)
 avisar('revenda2')
