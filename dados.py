@@ -10,8 +10,7 @@ options.headless = True
 browser = webdriver.Firefox(firefox_profile=perfil, options=options)
 browser.get('https://web.whatsapp.com')
 
-data = datetime.today().day
-data = data+1
+data = datetime.today().day+1
 notificados = []
 
 
